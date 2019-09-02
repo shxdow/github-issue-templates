@@ -1,17 +1,14 @@
 # Please follow the general troubleshooting steps first:
 
-- [ ] Ran ?
-- [ ] Ran ?
-- [ ] If you're seeing permission errors ?
-
-<!-- You can erase any parts of this template not applicable to your Issue. -->
+- [ ] Get a supported Xiaomi Yi camera
+- [ ] Use a 32 GB or lower microSD card (16 GB or lower are preferred)
+- [ ] The microSD card must be formatted in FAT32
 
 ### Bug reports:
 
-Please replace this line with a brief summary of your issue **AND** if reporting a build issue include the link from:
+Please replace this line with a brief summary of your issue
 
-### Features:
+## Specifications
 
-**Please note by far the quickest way to get a new feature is to file a Pull Request.**
-
-We will consider your request but it may be closed if it's something we're not actively planning to work on.
+  - Camera Version:
+  - Firmware:
